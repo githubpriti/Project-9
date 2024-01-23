@@ -1,6 +1,6 @@
 # Project 9:
 
-[Live link](https://creative-phoenix-70c570.netlify.app)
+[Live link](https://project-9-beta.vercel.app/)
 
 ## Name:Vaishnavi Jaju
 
